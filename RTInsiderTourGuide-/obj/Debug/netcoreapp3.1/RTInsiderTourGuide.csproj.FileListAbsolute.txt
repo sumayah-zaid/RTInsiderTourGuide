@@ -1,0 +1,262 @@
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.deps.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.dev.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csprojAssemblyReference.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfoInputs.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfo.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CoreCompileInputs.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.MvcApplicationPartsAssemblyInfo.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.input.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.output.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorCoreGenerate.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Success.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CopyComplete
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.Manifest.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.xml
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.genruntimeconfig.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.deps.json
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.json
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.dev.json
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csprojAssemblyReference.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfoInputs.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfo.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CoreCompileInputs.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.MvcApplicationPartsAssemblyInfo.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.input.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.output.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorCoreGenerate.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CopyComplete
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.Manifest.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.xml
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.genruntimeconfig.cache
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Admin/CreateNewTour.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/User/Login.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/User/Register.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/TourDetails.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payment.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmed.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.deps.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.dev.json
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csprojAssemblyReference.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfoInputs.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfo.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CoreCompileInputs.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.MvcApplicationPartsAssemblyInfo.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.input.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.output.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorCoreGenerate.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Admin/CreateNewTour.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmed.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payment.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/TourDetails.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/User/Login.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/User/Register.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CopyComplete
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.Manifest.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.xml
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.genruntimeconfig.cache
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Admin/EditTour.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Admin/AdminDashboard.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/UserDashboard.cshtml.g.cs
+/Users/saja/Documents/CodingDojo/CSharp/Project/Project Files/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Search.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.deps.json
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.json
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.runtimeconfig.dev.json
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csprojAssemblyReference.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfoInputs.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.AssemblyInfo.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CoreCompileInputs.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.MvcApplicationPartsAssemblyInfo.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorAssemblyInfo.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.input.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.TagHelpers.output.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorCoreGenerate.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Admin/AdminDashboard.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Admin/CreateNewTour.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Admin/EditTour.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmed.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Payment.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/Search.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/TourDetails.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Home/UserDashboard.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/User/Login.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/User/Register.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.RazorTargetAssemblyInfo.cs
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.Views.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.csproj.CopyComplete
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.Manifest.cache
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/staticwebassets/RTInsiderTourGuide.StaticWebAssets.xml
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.dll
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.pdb
+/Users/zaid/Desktop/RTInsiderTourGuide-Zaid/obj/Debug/netcoreapp3.1/RTInsiderTourGuide.genruntimeconfig.cache

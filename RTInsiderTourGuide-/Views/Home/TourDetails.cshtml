@@ -1,0 +1,181 @@
+@model Booking
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand" href="/">Runtime Terror</a>
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            @{
+              if (Context.Session.GetInt32("userId") != null)
+              {
+                  <li class="nav-item">
+                        <a class="nav-link" href="/userdashboard">My Dashboard</a>
+                  </li>
+              }
+            }
+            @{
+              if (Context.Session.GetInt32("userId") == 1)
+              {
+                  <li class="nav-item">
+                        <a class="nav-link" href="/admin">Admin Dashboard</a>
+                  </li>
+              }
+            }
+            <li class="nav-item">
+                <a class="nav-link" href="/SearchTours">Search For Tours</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+            </li>
+            @{
+              if (Context.Session.GetInt32("userId") != null)
+              {
+                  <li class="login">
+                    <a class="nav-link" href="/logout">Logout</a>
+                  </li>
+              }
+              else
+              {
+                <li class="login">
+                  <a class="nav-link" href="/login">Login</a>
+                </li>
+              }
+            }
+        </ul>
+    </div>
+</nav>
+
+<div id="toursCarousel" class="carousel slide container" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#toursCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#toursCarousel" data-slide-to="1"></li>
+      <li data-target="#toursCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      @{
+        int i = 0;
+            foreach (Image img in ViewBag.selectedTour.ImagesOfTour)
+            {
+                if ( i == 0 )
+                {
+                    <div class="carousel-item active">
+                      <img src="@img.Url" class="d-block w-100 carousel-img">
+                      @{i = i+1;}
+                    </div>
+                }
+                else
+                {
+                    <div class="carousel-item">
+                      <img src="@img.Url" class="d-block w-100 carousel-img">
+                    </div>
+                }
+            }
+      }
+    <a class="carousel-control-prev" href="#toursCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#toursCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+    </div>
+</div>
+
+<main class="container body ">
+    <div class="tour">
+        <h3 class="title" >@ViewBag.selectedTour.Title</h3>
+        <p>Includes transportation, the mentioned meals, and a tour</p>
+        <p>Availability : @ViewBag.selectedTour.Duration day/s.</p>
+    </div>
+
+    <h3><u>Details:</u></h3>
+    <div class="details">
+        <div class="accordion" id="accordionTour">
+
+          @{
+
+            int j = 1;
+            foreach (Activity a in ViewBag.selectedTour.TourActivities)
+            {
+              if (j == 1)
+              {
+                  <div class="card">
+                  <div class="card-header" id="heading@(j)">
+                    <h2 class="mb-0">
+                      <button class="btn btn-block text-left dayBtn collapsed" type="button" data-toggle="collapse" data-target="#collaps@(j)" aria-expanded="false" aria-controls="collaps@(j)">
+                        <i class="fas fa-chevron-right orange down"></i> Day @j
+                      </button>
+                    </h2>
+                  </div>
+                  <div id="collaps@(j)" class="collapse show" aria-labelledby="heading@(j)" data-parent="#accordionTour">
+                    <div class="card-body">
+                        <h4>@a.TourActivity</h4>
+                        <pre>
+@a.TourActivityDescription
+                        </pre>
+                    </div>
+                  </div>
+                  @{j = j+1;}
+                </div>
+              }
+              else
+              {
+                <div class="card">
+                  <div class="card-header" id="heading@(j)">
+                    <h2 class="mb-0">
+                      <button class="btn btn-block text-left dayBtn collapsed" type="button" data-toggle="collapse" data-target="#collaps@(j)" aria-expanded="false" aria-controls="collaps@(j)">
+                        <i class="fas fa-chevron-right orange"></i> Day @j
+                      </button>
+                    </h2>
+                  </div>
+                  <div id="collaps@(j)" class="collapse" aria-labelledby="heading@(j)" data-parent="#accordionTour">
+                    <div class="card-body">
+                        <h4>@a.TourActivity</h4>
+                        <pre>
+@a.TourActivityDescription
+                        </pre>
+                    </div>
+                  </div>
+                  @{j = j+1;}
+                </div>
+              }
+            }
+          } 
+
+          </div>
+          @{
+            if (ViewBag.IsBooked == null)
+            {
+              <div class="book">
+                <div class="book-card">
+                    <div class="book-header">
+                        <p class="book-price">$@ViewBag.selectedTour.Price</p>
+                        <p class="info">* The Price is for one Adult, Childern will be half the Price.</p>
+                    </div>
+                    <div class="book-body">
+                        <p class="date"><i class="far fa-calendar-alt"></i>@ViewBag.selectedTour.Date.Date.ToString("MMM dd yyyy")</p>
+                        <form asp-action="ToPayment" asp-controller="Home" method="POST" class="booking-form">
+                          <div class="form-input">
+                              <span asp-validation-for="NumberOfAdults" ></span><br>
+                              <label asp-for="NumberOfAdults"><i class="fas fa-user"></i> Number of Adults</label>
+                              <input asp-for="NumberOfAdults" class="form-control">
+                          </div>
+                          <div class="form-input">
+                              <span asp-validation-for="NumberOfChildern" ></span><br>
+                              <label asp-for="NumberOfChildern"><i class="fas fa-child"></i>Number of Childern</label>
+                              <input asp-for="NumberOfChildern" class="form-control">
+                          </div>
+                          <input asp-for="TourId" value="@ViewBag.selectedTour.TourId" hidden>
+                          <button class="proceedBtn mt-4"><i class="fas fa-check-circle"></i>Proceed Booking</button>
+                      </form>
+                    </div>
+                </div>
+            </div>
+            }
+          }
+            
+    </div>
+    
+</main>

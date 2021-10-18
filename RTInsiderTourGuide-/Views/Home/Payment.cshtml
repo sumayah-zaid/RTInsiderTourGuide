@@ -1,0 +1,98 @@
+@model Booking
+
+<main class="container">
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="left border p-2">
+                        <p class="">All fields are required*</p>
+                        <h5>Confirm order and pay</h5>
+                        <div class="row"> 
+                            <span class="header">CREDIT OR DEBIT CARD</span>
+                            <div class="icons"> 
+                                <img src="https://img.icons8.com/color/48/000000/visa.png" /> 
+                                <img src="https://img.icons8.com/color/48/000000/mastercard-logo.png" /> 
+                                <img src="https://img.icons8.com/color/48/000000/maestro.png" /> 
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 mt-3">
+                                <label>Name on Card:</label> 
+                                <input type="text" class="col-12" placeholder="Jason Brady"> 
+                            </div>
+                        </div>
+                        <div class="row mt-2">
+                            <div class="col-6">
+                                <span>Card Number:</span> 
+                                <input class="col-10" type="text" placeholder="0125 6780 4567 9909">  
+                            </div>
+                            <div class="col-3">
+                                <span>Expiry date:</span> 
+                                <input class="col-10" type="text" placeholder="MM/YY"> 
+                            </div>
+                            <div class="col-3">
+                                <span>CVV:</span> 
+                                <input class="col-10" type="text" placeholder="255">  
+                            </div>
+                        </div>
+
+                        <br>
+                        <h5><b>BILLING ADDRESS:</b></h5>
+                        
+
+                        <div class="row">
+                            <div class="col-6">
+                                <span>Street Address:</span> <br> 
+                                <input class="col-10" type="text" placeholder="john ">  
+                            </div>
+
+                            <div class="col-6">
+                                <span>City:</span> <br>
+                                <input class="col-10" type="text" placeholder="San Diego">  
+                            </div>
+                        </div>
+
+                        <div class="row mt-2">
+                            <div class="col-6">
+                                <span >State/Province:</span> <br> 
+                                <input class="col-10" type="text" placeholder="California">  
+                            </div>
+
+                            <div class="col-6">
+                                <span>Zip CODE:</span> <br>
+                                <input class="col-10" type="text" placeholder="92101">  
+                            </div>
+
+                            <div class="row mt-5 mb-3">
+                                <div class="col-12 position-relative">
+                                    @Html.ActionLink("Confirm the Payment", "Confirmed", "Home", @Model, new { @class= "pay"} )
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-5 space">
+                    <div class="right border p-2">
+                        <h5>@ViewBag.selectedTour.Title</h5>
+                        <br>
+                        <div class="row item">
+                            <p class="col-6 align-self-center"><b>Travel Date :</b>   @ViewBag.selectedTour.Date.Date.ToString("MMM dd yyyy")</p>
+                            <p class="col-6 align-self-center"><b>Duration :</b>   @ViewBag.selectedTour.Duration Day/s</p>
+                        </div>
+
+                        <div class="row item mb-3">
+                            <p class="col-6 align-self-center"><b>Adult :</b>  @Model.NumberOfAdults</p>
+                            <p class="col-6 align-self-center"><b>Children :</b>   @Model.NumberOfChildern</p>
+                        </div>
+                    </div>
+                    <div class="row item pt-3 mb-3 pb-2 bg-light right border">
+                        <h4 class="col-6 align-self-center"><b>Total Price :</b></h4>
+                        <h4 class="col-6 align-self-center"><b>$@ViewBag.TotalPrice</b></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

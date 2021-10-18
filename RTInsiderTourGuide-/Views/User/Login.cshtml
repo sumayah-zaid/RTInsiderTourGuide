@@ -1,0 +1,36 @@
+@model LoginUser
+
+<div class="hero-image">
+    <div class="user-container" style="padding: 50px; width: 40%;">
+        <h2 class="text-center">LOGIN...</h2><br><br>
+        <form class="row g-3" asp-action="LoginForm" asp-controller="Home" method="POST">
+            <div class="col-12">
+                <p><span class="text-danger" asp-validation-for="LoginEmail"></span></p>
+                <label asp-for="LoginEmail" class="form-label"></label>
+                <br>
+                <input asp-for="LoginEmail" class="form-control">
+            </div>
+            <div class="col-12">
+                <p><span class="text-danger" asp-validation-for="LoginPassword"></span></p>
+                <label asp-for="LoginPassword" class="form-label"></label>
+                <br>
+                <input type="password" asp-for="LoginPassword" class="form-control">
+            </div>
+            <div class="col-12">
+                <div class="form-check text-center"><br><br>
+                    <input class="form-check-input" type="checkbox" id="gridCheck" checked>
+                        <label class="form-check-label" for="gridCheck">
+                            Remeber me.
+                        </label>
+                </div>
+            </div>
+            <div class="d-grid gap-2" style="margin: auto; margin-top: 40px;">
+                <button class="btn btn-primary" style="width: 200px;">SIGN IN!</button>
+            </div>
+        </form> 
+                <div class="text-center" style="margin-top: 20px; margin-bottom:580px;">
+                Need to Register?
+                <a href="/register">REGISTER</a>
+                </div>
+    </div>
+</div>

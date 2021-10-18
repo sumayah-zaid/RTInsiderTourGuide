@@ -1,0 +1,94 @@
+@model Tour
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand" href="/">Runtime Terror</a>
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+                  <a class="nav-link" href="/userdashboard">My Dashboard</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/admin">Admin Dashboard</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/admin/newtour">Create New Tour</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+            </li>
+            <li class="login">
+                <a class="nav-link" href="/logout">logout</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<main class="container">
+    <h3>Create new Trip/Tour</h3>
+    <div class="newTripForm mt-4">
+        <form asp-action="AddNewTour" asp-controller="Admin" enctype="multipart/form-data" method="post">
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-input">
+                        <span class="text-danger" asp-validation-for="Title" ></span>
+                        <label asp-for="Title"></label>
+                        <input asp-for="Title" class="form-control" />
+                    </div>
+                    <div class="form-input">
+                        <span class="text-danger" asp-validation-for="Duration" ></span>
+                        <label asp-for="Duration"></label>
+                        <select asp-for="Duration" class="form-control" id="days">
+                            <option value="" >--------</option>
+                            <option value="1">One Day</option>
+                            <option value="2">Two Days</option>
+                            <option value="3">Three Days</option>
+                            <option value="4">Four Days</option>
+                            <option value="5">Five Days</option>
+                        </select>
+                    </div>
+                    <div class="form-input">
+                        <span class="text-danger" asp-validation-for="Price" ></span>
+                        <label asp-for="Price"></label>
+                        <input asp-for="Price" class="form-control">
+                    </div>
+                    <div class="form-input">
+                        <span class="text-danger" asp-validation-for="TourImages" ></span>
+                        <label asp-for="TourImages"></label>
+                        <input asp-for="TourImages" class="form-control upImg" />
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="form-input">
+                        <label asp-for="Destination"></label>
+                        <input asp-for="Destination" class="form-control">
+                    </div>
+                    <div class="form-input">
+                        <span class="text-danger" asp-validation-for="Category" ></span>
+                        <label asp-for="Category"></label>
+                        <select asp-for="Category" class="form-control">
+                            <option value="Adventure Tour">Adventure Tour</option>
+                            <option value="Attractions">Attractions</option>
+                            <option value="Experiences Tours">Experiences Tours</option>
+                            <option value="Private Tours">Private Tours</option>
+                            <option value="Scheduled Tours">Scheduled Tours</option>
+                        </select>
+                    </div>
+                    <div class="form-input">
+                        <span class="text-danger" asp-validation-for="Date" ></span>
+                        <label asp-for="Date"></label>
+                        <input asp-for="Date" class="form-control">
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="mt-5" id="activity">
+            </div>
+            <div class="btns mt-5">
+                <button class="createBtn">Create</button>
+                <a href="/Admin" class="cancelBtn ml-4">Cancel</a>
+            </div>
+        </form>
+    </div>
+</main>

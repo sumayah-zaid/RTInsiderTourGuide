@@ -1,0 +1,61 @@
+@model List<Tour>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand" href="/">Runtime Terror</a>
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+                  <a class="nav-link" href="/userdashboard">My Dashboard</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/admin">Admin Dashboard</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/admin/newtour">Create New Tour</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+            </li>
+            <li class="login">
+                <a class="nav-link" href="/logout">logout</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+<main class="container body ">
+
+        <h1 class="text-center mb-5">Admin Dashboard</h1>
+
+        <h3><u>All Tours:</u></h3>
+        <div class="row mt-4">
+
+          @{
+            foreach (Tour t in Model)
+            {
+              <div class="col-4 mb-4">
+                <div class="card">
+                  <a href="/tour/@t.TourId">
+                    <img src="@t.ImagesOfTour[0].Url" class="card-img-top card-img">
+                  </a>
+                  <div class="card-body">
+                    <h6 class="card-title"><a href="/tour/@t.TourId">@t.Title</a></h6>
+                    <p class="text-center price" >$@t.Price</p>
+                    <p>Includes transportation, the mentioned meals, and a tour guide</p>
+                    <p class="card-text">Availability : @t.Duration day/s.</p>
+                    <div class="links">
+                      <a class="deletelnk" href="/admin/delete/@t.TourId">Delete</a>
+                      <a class="editlnk" href="/Admin/editTour/@t.TourId">Edit</a>
+                      <a class="viewlnk" href="/tour/@t.TourId">View</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            }
+          }
+
+        </div>
+    </main>
