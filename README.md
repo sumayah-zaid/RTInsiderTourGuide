@@ -1,3 +1,3 @@
 # RTInsiderTourGuide
-## it is project for coding dojo 
-### use c# asp.net core 
+ it is project for coding dojo 
+ use c# asp.net core 
